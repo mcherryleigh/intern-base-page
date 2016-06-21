@@ -1,3 +1,4 @@
+'use strict';
 let BasePage = require('../index.js');
 let _ = require('lodash');
 describe("The enhanced Page Object", function() {
