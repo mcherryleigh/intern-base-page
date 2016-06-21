@@ -1,0 +1,31 @@
+{
+  "name": "intern-base-page",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Enhancements and helper functions with structure for a base page object with Intern/Leadfoot.",
+  "author": "Michael Cherry-Leigh",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcherryleigh/intern-base-page"
+  },
+  "bugs": {
+    "url": "https://github.com/mcherryleigh/intern-base-page/issues"
+  },
+  "keywords": [
+    "intern", "internjs", "leadfoot",
+    "webdriver", "selenium",
+    "testing", "end to end", "e2e",
+    "page object", "page object model", "pom"
+  ],
+  "dependencies": {
+    "amdefine": "^1.0.0",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
